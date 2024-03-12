@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.testingweb.TestingWebApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-04T16:04:29" hostname="ANGEPC" time="0.635">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.testingweb.TestingWebApplicationTests" time="0.635"/>
+  <system-out><![CDATA[16:04:28.520 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.testingweb.TestingWebApplicationTests]: TestingWebApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+16:04:28.609 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.testingweb.TestingWebApplication for test class com.example.testingweb.TestingWebApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.1.0)
+
+2023-11-04T16:04:28.931Z  INFO 8352 --- [    Test worker] c.e.t.TestingWebApplicationTests         : Starting TestingWebApplicationTests using Java 17.0.9 with PID 8352 (started by angej in C:\dev\projects\gs-testing-web-main\initial)
+2023-11-04T16:04:28.932Z  INFO 8352 --- [    Test worker] c.e.t.TestingWebApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-11-04T16:04:29.802Z  INFO 8352 --- [    Test worker] c.e.t.TestingWebApplicationTests         : Started TestingWebApplicationTests in 1.069 seconds (process running for 1.955)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
